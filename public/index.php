@@ -23,6 +23,8 @@
 
 require __DIR__.'/../bootstrap/autoload.php';
 
+$a = 'hello';
+
 /*
 |--------------------------------------------------------------------------
 | Turn On The Lights
