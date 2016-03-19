@@ -1,6 +1,6 @@
 <?php
-test
-test123
+testfdsf
+test123sdf
 /*
  * This file is part of Bootstrap CMS.
  *
@@ -9,9 +9,9 @@ test123
  * For the full copyright and license information, please view the LICENSE
  * file that was distributed with this source code.
  */dfasfaa
-safd
-test
-test123
+safdsdf
+testsdf
+test123sdf
 /*sfd
 |------------------------------fs--------------------------------------------
 | Register The Auto Loader
