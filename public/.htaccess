@@ -3,7 +3,7 @@
         Options -MultiViews
     </IfModule>
 
-    RewriteEngine On
+    RewriteEngine dsafa
 
     RewriteRule ^(.*)/$ /$1 [L,R=301]
 
