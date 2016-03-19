@@ -1,8 +1,0 @@
-<<<<<<< HEAD
-fdsfsd
-sfdsfssd
-czx
-=======
-123123
-23234
->>>>>>> branch 'test2fu' of git@github.com:dusqiu/test2.git
