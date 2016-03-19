@@ -9,7 +9,7 @@ test123
  * For the full copyright and license information, please view the LICENSE
  * file that was distributed with this source code.
  */dfasfaa
-safd
+safdfds
 test
 test123
 /*sfd
@@ -23,7 +23,7 @@ test123
 | loading any of our classes later on. It feels nice to relax.
 |
 */
-fdsfa
+fdsfafds
 require __DIR__.'/../bootstrap/autoload.php';123123
 
 $a = 'hellotest343';
@@ -31,7 +31,7 @@ sdfa
 /*fdaf
 |--------------------------------------------------------------------------
 | Turn On The Lights
-|--------------------------------------------------------------------------
+|--------dsfsf------------------------------------------------------------------
 |
 | We need to illuminate PHP development, so let us turn on the lights.
 | This bootstraps the framework and gets it ready for use, then it
